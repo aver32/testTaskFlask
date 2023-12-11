@@ -1,0 +1,7 @@
+# -------- DELAY --------
+START_DELAY_SIMULATE_DOCUMENT_PROC = 2
+END_DELAY_SIMULATE_DOCUMENT_PROC = 5
+
+# -------- FOLDER_NAME --------
+UNZIPPED_FOLDER_NAME = "images_unzipped"
+PROCESSED_IMAGES_FOLDER_NAME = "processed_images.zip"
